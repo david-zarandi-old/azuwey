@@ -6,7 +6,7 @@
 Here are a few things I've picked up through the years:
 
 - :speaking_head: Javascript | Typescript | Golang | C++
-- :classical_building: Preact | Svelte | ReactJS | NodeJS | Styled Components | Sass
+- :classical_building: Solid.JS | Preact | Svelte | ReactJS | NodeJS | Styled Components | Sass
 - :cloud: AWS | Firebase
 - :video_game: Godot
 - :gear: Docker
@@ -15,13 +15,14 @@ Here are a few things I've picked up through the years:
 
 ## :toolbox: I'm currenly working on:
 
-- My machine learning library [goNetwork](https://github.com/azuwey/gonetwork)
+- My material like library based on Solid.JS framework [solid material ui](https://github.com/azuwey/solid-material-ui)
 
 ## :eyes: I'm interested in:
 
 - Machine learning
 - Embedded programming
 - Web technologies
+- Server management / DevOps technologies
 
 ## :seedling: I'm currently learning:
 
@@ -36,4 +37,4 @@ or send me a [mail](mailto:david.zarandi@pm.me).
 
 ## :electric_plug: Outside of work
 
-I'm love listening music especially EDM, Metal and playing on my Switch.
+I'm love listening music especially EDM, Metal and playing on my Switch and Xbox.
