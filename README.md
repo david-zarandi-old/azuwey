@@ -1,27 +1,22 @@
 
-# :vulcan_salute: Hi, I'm David Zarandi (@azuwey)
+# :vulcan_salute: Hi, I'm David (@azuwey)!
 
 ## :computer: Tech stack
 
 Here are a few things I've picked up through the years:
 
-- :speaking_head: Javascript | Typescript | Golang | C++
-- :classical_building: Solid.JS | Preact | Svelte | ReactJS | NodeJS | Styled Components | Sass
-- :cloud: AWS | Firebase
-- :video_game: Godot
-- :gear: Docker
-- :ledger: NoSQL | PostgreSQL | SQLite
+- :speaking_head: JavaScript (Node.JS) | TypeScript | Shell (Bash)
+- :classical_building: Next.JS | React | REST | GraphQL | Tailwind | CSS-in-JS | TypeORM
+- :question: Cypress, Jest, Mocha, Chai
+- :cloud: AWS Lambda and E2C | OpenStack | DigitalOcean
+- :gear: Docker, Nginx, Redis, PostgreSQL, MariaDB
 - :desktop_computer: Linux
-
-## :toolbox: I'm currenly working on:
-
-- My material like library based on Solid.JS framework [solid material ui](https://github.com/azuwey/solid-material-ui)
 
 ## :eyes: I'm interested in:
 
+- Web technologies
 - Machine learning
 - Embedded programming
-- Web technologies
 - Server management / DevOps technologies
 
 ## :seedling: I'm currently learning:
@@ -37,4 +32,4 @@ or send me a [mail](mailto:david.zarandi@pm.me).
 
 ## :electric_plug: Outside of work
 
-I'm love listening music especially EDM, Metal and playing on my Switch and Xbox.
+I'm intrested in street photography.
