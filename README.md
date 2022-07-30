@@ -6,7 +6,7 @@
 Here are a few things I've picked up through the years:
 
 - :speaking_head: JavaScript (Node.JS) | TypeScript | Shell (Bash)
-- :classical_building: Next.JS | React | REST | GraphQL | Tailwind | CSS-in-JS | TypeORM
+- :classical_building: Next.JS | Solid | React | REST | GraphQL | Tailwind | CSS-in-JS | Prisma | TypeORM | Tailwind
 - :question: Cypress, Jest, Mocha, Chai
 - :cloud: AWS Lambda and E2C | OpenStack | DigitalOcean
 - :gear: Docker, Nginx, Redis, PostgreSQL, MariaDB
@@ -24,9 +24,7 @@ Here are a few things I've picked up through the years:
 - Everything as possible
 
 ## :mailbox: Get in touch
-- Hackerrank - [David Zarandi](https://www.hackerrank.com/david_zarandi)
 - LinkedIn - [David Zarandi](https://in.linkedin.com/in/david-zarandi-49a7bb172)
-- Keybase - [david_zarandi](https://keybase.io/david_zarandi)
 
 or send me a [mail](mailto:david.zarandi@pm.me).
 
