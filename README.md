@@ -9,7 +9,7 @@ Here are a few things I've picked up through the years:
 - :classical_building: Next.JS | Solid | React | REST | GraphQL | Tailwind | CSS-in-JS | Prisma | TypeORM | Tailwind
 - :question: Cypress, Jest, Mocha, Chai
 - :cloud: AWS Lambda and E2C | OpenStack | DigitalOcean
-- :gear: Docker, Nginx, Redis, PostgreSQL, MariaDB
+- :gear: Docker | Nginx | Redis | PostgreSQL | MariaDB | MongoDB
 - :desktop_computer: Linux
 
 ## :eyes: I'm interested in:
@@ -24,9 +24,7 @@ Here are a few things I've picked up through the years:
 - Everything as possible
 
 ## :mailbox: Get in touch
-- LinkedIn - [David Zarandi](https://in.linkedin.com/in/david-zarandi-49a7bb172)
-
-or send me a [mail](mailto:david.zarandi@pm.me).
+- send me an [email](mailto:hello@davidzarandi.eu)
 
 ## :electric_plug: Outside of work
 
